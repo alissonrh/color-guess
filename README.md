@@ -1,4 +1,4 @@
-## Projeto Color Guess
+## Projeto - Adivinhe a Cor
 
 **Acessar:** _[Clique Aqui](https://alissonrh.github.io/color-guess/)_
 
